@@ -1,0 +1,14 @@
+
+#motoSVG {
+    top: 50px;
+    left: 0;
+    right:0;
+    margin:auto;
+    position: absolute;
+    visibility:hidden;
+}
+.roadLine {
+  fill:none;
+  stroke:#FFD64D;
+  stroke-width:20;
+}
